@@ -9,6 +9,11 @@
 <p align='center'> <samp>Computer Science Student | Software Developer | Machine Learning Enthusiast | Deep Learning.</samp></p>
 <br> <br>
 
+<div align="center">
+<img src="/img.jpg">
+<p>It's for the testing of readme.md</p>
+</div>
+
 Here are some ideas to get you started:
 
 - I'm a Computer Science Student at NIT Hamirpur<!-- - 🔭 I’m currently working on  -->
