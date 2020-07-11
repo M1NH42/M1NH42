@@ -10,7 +10,7 @@
 <br> <br>
 
 <div align="center">
-<img src="/img.jpg">
+<img src="img.jpg">
 <p>It's for the testing of readme.md</p>
 </div>
 
