@@ -4,7 +4,7 @@
 **M1NH42/M1NH42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<center> <h1> Minhaz Alam </h1> </center>
+<p align='center'><samp><strong>Minhaz Alam.</strong>😄</samp></p>
 
 <p align='center'> <samp>Computer Science Student | Software Developer | Machine Learning Enthusiast | Deep Learning.</samp></p>
 <br> <br>
