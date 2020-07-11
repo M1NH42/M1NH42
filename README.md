@@ -9,10 +9,10 @@
 <p align='center'> <samp>Computer Science Student | Software Developer | Machine Learning Enthusiast | Deep Learning.</samp></p>
 <br> <br>
 
-<div align="center">
+<!-- <div align="center">
 <img src="img.jpg">
 <p>It's for the testing of readme.md</p>
-</div>
+</div> -->
 
 Here are some ideas to get you started:
 
