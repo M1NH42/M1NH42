@@ -21,6 +21,6 @@
 - 👯 I’m looking to collaborate on ...<!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about Machine Learning and Deep Learning
 - 🔓 Unlocking some knowledge of Big Data
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alam/)](https://www.linkedin.com/in/alam/) --> --> -->
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alam/)](https://www.linkedin.com/in/alam/) -->
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
