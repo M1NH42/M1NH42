@@ -6,7 +6,7 @@
 
 <p align='center'><samp><strong>Minhaz Alam.</strong></samp></p>
 
-<p align='center'> <samp>Software Developer | Data Analysis | Machine Learning | Deep Learning</samp></p>
+<p align='center'> <samp>   Software Developer    </samp></p>
 <br> <br>
 
 <!-- <div align="center">
